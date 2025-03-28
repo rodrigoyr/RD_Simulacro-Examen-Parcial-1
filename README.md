@@ -1,7 +1,6 @@
 # Simulacro Examen Parcial 1
-
 Rodrigo Yepes Rubio
-
+<br>https://github.com/rodrigoyr/RD_Simulacro-Examen-Parcial-1.git<br>
 ## Parte I: Conceptos y Teoría
 
 ### Pregunta 1: Modelos OSI y TCP/IP
