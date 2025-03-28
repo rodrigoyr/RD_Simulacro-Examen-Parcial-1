@@ -32,6 +32,8 @@ Rodrigo Yepes Rubio
    - **Modelo TCP/IP**: Tiende a ser más eficiente al evitar la repetición de funciones.
 
 **Conclusión**: Ambos modelos son esenciales para el diseño y operación de redes de ordenadores. El modelo OSI proporciona una estructura teórica clara, mientras que el modelo TCP/IP se centra en la implementación práctica y el uso en redes reales.
+![image](https://github.com/user-attachments/assets/5a1a5bd8-6bba-45ed-95ed-c163319e5db1)
+
 
 #### b) Explica brevemente las ventajas y limitaciones de cada uno de estos modelos.
 
